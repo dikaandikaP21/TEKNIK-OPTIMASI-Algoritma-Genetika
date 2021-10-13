@@ -1,0 +1,1 @@
+# TEKNIK-OPTIMASI-Algoritma-Genetika
