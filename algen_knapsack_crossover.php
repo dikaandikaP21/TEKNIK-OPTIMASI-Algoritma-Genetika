@@ -134,7 +134,7 @@ class Fitness
             }
 
             //echo '<br> Hasil ';
-            //  print_r($ret[$index]);
+            //print_r($ret[$index]);
             return ($ret[$index]);
         }
     }
